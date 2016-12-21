@@ -1,0 +1,61 @@
+body {
+    color: white;
+    background: url(3.jpg)no-repeat center fixed;
+        background-size: cover;
+       
+}
+
+#mainheader {
+    height: 200px;
+    width: 80%;
+    border:1px solid white;
+    border-radius: 20px;
+    margin: 10px auto;
+    
+    
+}
+#title {
+    height: 200px;;
+    width:  auto;
+    margin-left: 10px;
+    float: left;
+}
+
+#addform {
+    margin-left: 35%;
+}
+
+article {
+    height: 500px;
+    width: 80%;
+    border:1px solid white;
+    border-radius: 10px;
+    margin: 10px auto;
+}
+
+#mainheader > p{
+    font-size: 50px;
+    font-family: verdana;
+    float: left;
+    margin-left: 20px;
+    margin-top: 50px;
+
+}
+nav {
+    height: 50px;
+    width: 80%;
+    border:1px solid white;
+    border-radius: 10px;
+    margin: 10px auto;
+}
+nav > li >ul
+{
+    display: inline;
+    margin: auto;
+}
+
+nav > li {
+    margin-left: 35%;
+  
+}
+

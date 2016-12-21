@@ -1,0 +1,30 @@
+c:\users\oleg\documents\visual studio 2015\Projects\serverDB\serverDB\bin\Debug\serverDB.exe.config
+c:\users\oleg\documents\visual studio 2015\Projects\serverDB\serverDB\bin\Debug\serverDB.exe
+c:\users\oleg\documents\visual studio 2015\Projects\serverDB\serverDB\bin\Debug\serverDB.pdb
+c:\users\oleg\documents\visual studio 2015\Projects\serverDB\serverDB\obj\Debug\serverDB.exe
+c:\users\oleg\documents\visual studio 2015\Projects\serverDB\serverDB\obj\Debug\serverDB.pdb
+C:\Users\Oleg\Documents\Visual Studio 2015\Projects\serverDB\serverDB\obj\Debug\serverDB.csprojResolveAssemblyReference.cache
+C:\Users\Oleg\documents\visual studio 2015\Projects\serverDB\serverDB\bin\Debug\Npgsql.pdb
+C:\Users\Oleg\documents\visual studio 2015\Projects\serverDB\serverDB\bin\Debug\Npgsql.xml
+C:\Users\Oleg\documents\visual studio 2015\Projects\serverDB\serverDB\bin\Debug\Mono.Security.dll
+C:\Users\Oleg\documents\visual studio 2015\Projects\serverDB\serverDB\bin\Debug\de\Npgsql.resources.dll
+C:\Users\Oleg\documents\visual studio 2015\Projects\serverDB\serverDB\bin\Debug\es\Npgsql.resources.dll
+C:\Users\Oleg\documents\visual studio 2015\Projects\serverDB\serverDB\bin\Debug\fi\Npgsql.resources.dll
+C:\Users\Oleg\documents\visual studio 2015\Projects\serverDB\serverDB\bin\Debug\fr\Npgsql.resources.dll
+C:\Users\Oleg\documents\visual studio 2015\Projects\serverDB\serverDB\bin\Debug\ja\Npgsql.resources.dll
+C:\Users\Oleg\documents\visual studio 2015\Projects\serverDB\serverDB\bin\Debug\zh-CN\Npgsql.resources.dll
+C:\Users\V\Desktop\serverDB\serverDB\bin\Debug\serverDB.exe.config
+C:\Users\V\Desktop\serverDB\serverDB\obj\Debug\serverDB.exe
+C:\Users\V\Desktop\serverDB\serverDB\obj\Debug\serverDB.pdb
+C:\Users\V\Desktop\serverDB\serverDB\bin\Debug\serverDB.exe
+C:\Users\V\Desktop\serverDB\serverDB\bin\Debug\serverDB.pdb
+C:\Users\V\Desktop\serverDB\serverDB\bin\Debug\Mono.Security.dll
+C:\Users\V\Desktop\serverDB\serverDB\bin\Debug\Npgsql.pdb
+C:\Users\V\Desktop\serverDB\serverDB\bin\Debug\Npgsql.xml
+C:\Users\V\Desktop\serverDB\serverDB\bin\Debug\de\Npgsql.resources.dll
+C:\Users\V\Desktop\serverDB\serverDB\bin\Debug\es\Npgsql.resources.dll
+C:\Users\V\Desktop\serverDB\serverDB\bin\Debug\fi\Npgsql.resources.dll
+C:\Users\V\Desktop\serverDB\serverDB\bin\Debug\fr\Npgsql.resources.dll
+C:\Users\V\Desktop\serverDB\serverDB\bin\Debug\ja\Npgsql.resources.dll
+C:\Users\V\Desktop\serverDB\serverDB\bin\Debug\zh-CN\Npgsql.resources.dll
+C:\Users\V\Desktop\serverDB\serverDB\obj\Debug\serverDB.csprojResolveAssemblyReference.cache
